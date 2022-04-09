@@ -27,7 +27,7 @@
     "expo-image-picker": "~7.0.0",
     "immutable": "^4.0.0-rc.12",
     "intl": "^1.2.5",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "native-base": "^2.13.8",
     "react": "16.8.3",
     "react-dom": "16.8.3",
